@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5379A275-E1E3-4247-B5BF-D0D940A2EB5B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "395D4FED-42A9-4FA7-BFB4-82882C78631B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/mergeTwoLists/mergeTwoLists.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "mergeTwoLists(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "395D4FED-42A9-4FA7-BFB4-82882C78631B - 7033258b908e8a54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.Solution_mergeTwoLists.mergeTwoLists(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/Programming/LeetCode/LeetCode/mergeTwoLists/mergeTwoLists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+               <Location
+                  uuid = "395D4FED-42A9-4FA7-BFB4-82882C78631B - 7033258b908e8a37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.Solution_mergeTwoLists.mergeTwoLists(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/Programming/LeetCode/LeetCode/mergeTwoLists/mergeTwoLists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24BD8949-2DB2-4771-A11C-371B35E839B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LeetCode/mergeTwoLists/mergeTwoLists.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "mergeTwoLists(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "24BD8949-2DB2-4771-A11C-371B35E839B1 - 7033258b908e8bb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.Solution_mergeTwoLists.mergeTwoLists(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/Programming/LeetCode/LeetCode/mergeTwoLists/mergeTwoLists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "636">
+               </Location>
+               <Location
+                  uuid = "24BD8949-2DB2-4771-A11C-371B35E839B1 - 7033258b908e8b92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LeetCode.Solution_mergeTwoLists.mergeTwoLists(Swift.Optional&lt;LeetCode.ListNode&gt;, Swift.Optional&lt;LeetCode.ListNode&gt;) -&gt; Swift.Optional&lt;LeetCode.ListNode&gt;"
+                  moduleName = "LeetCode"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daniilvilchinskiy/Desktop/Programming/LeetCode/LeetCode/mergeTwoLists/mergeTwoLists.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
